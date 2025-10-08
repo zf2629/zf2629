@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="favicon.ico">
+  <img src="https://avatars.githubusercontent.com/u/223064975?v=4">
 </p>
 
 <a href="https://github.com/zf2629/TV">
